@@ -52,10 +52,6 @@ figma/
 - User Research
 - User Flow Mapping
 
-### AI-Assisted Workflow
-- Claude AI
-- ChatGPT
-
 ---
 
 ## 📖 Project Workflow
